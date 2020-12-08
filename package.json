@@ -42,8 +42,8 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.6.0",
-    "appium-android-driver": "^4.20.0",
-    "appium-base-driver": "^7.0.0",
+    "appium-android-driver": "git+https://github.com/appium/appium-android-driver#ea76e0dd66935d589806cf5d256bb3560a976f11",
+    "appium-base-driver": "git+https://github.com/appium/appium-base-driver#9314e410d1e2177e019134129ebb7dc2b4128cfa",
     "appium-espresso-driver": "^1.0.0",
     "appium-fake-driver": "^1.x",
     "appium-flutter-driver": "^0",
