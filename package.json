@@ -46,7 +46,6 @@
     "appium-espresso-driver": "^1.0.0",
     "appium-fake-driver": "^1.x",
     "appium-flutter-driver": "0.0.26-1",
-    "appium-adb": "git+https://github.com/KazuCocoa/appium-adb#03b53a7e531518da24ee16fc09f7c2d7d7945923",
     "appium-geckodriver": "^0.3.0",
     "appium-ios-driver": "4.x",
     "appium-mac-driver": "1.x",
