@@ -2677,10 +2677,11 @@
       }
     },
     "appium-flutter-driver": {
-      "version": "0.0.26-1",
-      "resolved": "https://registry.npmjs.org/appium-flutter-driver/-/appium-flutter-driver-0.0.26-1.tgz",
-      "integrity": "sha512-xCpF3BfvzM4i5fv1pae0dKsNKCpiJeUakrRKX32yIxd1knjZoAvtdAeiFYiVLs3tlyszui0Ty0vc/JvuJFjUBA==",
+      "version": "0.0.27",
+      "resolved": "https://registry.npmjs.org/appium-flutter-driver/-/appium-flutter-driver-0.0.27.tgz",
+      "integrity": "sha512-vPk6ffTQkPixfKPg5Xs/bKghfSGRPklHvSbt7h+3R3hdBToZZojQQGI1LlhnE32PS2DmGEX8xoRVCqALYJVYnA==",
       "requires": {
+        "appium-adb": "^8.8.0",
         "appium-base-driver": "^5.0.0",
         "appium-uiautomator2-driver": "^1.35.1",
         "appium-xcuitest-driver": "^3.17.0",
